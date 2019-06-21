@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "683187633455",
+    "firebase_url": "https://placa-bcb83.firebaseio.com",
+    "project_id": "placa-bcb83",
+    "storage_bucket": "placa-bcb83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683187633455:android:30774ed041a3ce46",
+        "android_client_info": {
+          "package_name": "com.example.placa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683187633455-uct3i8g931a9rhif752tjlmb8e1umfp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.placa",
+            "certificate_hash": "d7a40cac37b0354cbc9fbd07cd86da2566e723d3"
+          }
+        },
+        {
+          "client_id": "683187633455-bvsasrk0c0q15ke7n3j3cj8jpnda86d1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYeoDEv5w59IbQg4nzW2pWEk2aWAVuZ2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683187633455-bvsasrk0c0q15ke7n3j3cj8jpnda86d1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
